@@ -45,7 +45,7 @@
     "react-router-redux": "^4.0.6",
     "react-spinkit": "^1.1.11",
     "redux": "^3.7.1",
-    "redux-logger": "^2.7.0",
+    "redux-logger": "^3.0.6",
     "redux-thunk": "^2.1.0",
     "run-sequence": "^1.2.2",
     "underscore": "^1.8.3",

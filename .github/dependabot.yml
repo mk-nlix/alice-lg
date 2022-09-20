@@ -11,10 +11,10 @@ updates:
   #    interval: "weekly"
   # Maintain dependencies for npm
   - package-ecosystem: "gomod"
-    directory: "/"
+    directory: "/alice-lg"
     schedule:
       interval: "daily"
   - package-ecosystem: "npm"
-    directory: "/"
+    directory: "/client"
     schedule:
       interval: "daily"

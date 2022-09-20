@@ -8,7 +8,7 @@ require (
 	github.com/jackc/pgx/v4 v4.14.1
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/osrg/gobgp v0.0.0-20190502094614-fd6618fed499
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/net v0.0.0-20210316092652-d523dce5a7f4 // indirect

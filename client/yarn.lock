@@ -314,7 +314,7 @@ babel-code-frame@^6.22.0, babel-code-frame@^6.26.0:
     esutils "^2.0.2"
     js-tokens "^3.0.2"
 
-babel-core@^6.0.14, babel-core@^6.17.0, babel-core@^6.26.0:
+babel-core@^6.17.0, babel-core@^6.26.0:
   version "6.26.3"
   resolved "https://registry.yarnpkg.com/babel-core/-/babel-core-6.26.3.tgz#b2e2f09e342d0f0c88e2f02e067794125e75c207"
   integrity sha512-6jyFLuDmeidKmUEb3NM+/yawG0M2bDZ9Z1qbZP59cyHLz8kYGKYwpJP0UwUKKUiTRNvxfLesJnTedqczP7cTDA==
@@ -875,13 +875,10 @@ babel@^6.5.2:
   resolved "https://registry.yarnpkg.com/babel/-/babel-6.23.0.tgz#d0d1e7d803e974765beea3232d4e153c0efb90f4"
   integrity sha1-0NHn2APpdHZb7qMjLU4VPA77kPQ=
 
-babelify@^7.3.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/babelify/-/babelify-7.3.0.tgz#aa56aede7067fd7bd549666ee16dc285087e88e5"
-  integrity sha1-qlau3nBn/XvVSWZu4W3ChQh+iOU=
-  dependencies:
-    babel-core "^6.0.14"
-    object-assign "^4.0.0"
+babelify@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/babelify/-/babelify-8.0.0.tgz#6f60f5f062bfe7695754ef2403b842014a580ed3"
+  integrity sha512-xVr63fKEvMWUrrIbqlHYsMcc5Zdw4FSVesAHgkgajyCE1W8gbm9rbMakqavhxKvikGYMhEcqxTwB/gQmQ6lBtw==
 
 babylon@^6.17.0, babylon@^6.18.0:
   version "6.18.0"
@@ -3801,7 +3798,7 @@ object-assign@^3.0.0:
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-3.0.0.tgz#9bedd5ca0897949bca47e7ff408062d549f587f2"
   integrity sha1-m+3VygiXlJvKR+f/QIBi1Un1h/I=
 
-object-assign@^4.0.0, object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
+object-assign@^4.0.1, object-assign@^4.1.0, object-assign@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/object-assign/-/object-assign-4.1.1.tgz#2109adc7965887cfc05cbbd442cac8bfbb360863"
   integrity sha1-IQmtx5ZYh8/AXLvUQsrIv7s2CGM=
